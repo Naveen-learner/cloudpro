@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'timesheets-cloudpro'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD1DFB180D2D449490903478012D2489 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3663A31A8B1E4147BB92A1B9242734EB }}
